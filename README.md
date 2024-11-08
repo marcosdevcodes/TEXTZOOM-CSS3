@@ -1,8 +1,10 @@
 # TextZoom com CSS3, veja o video abaixo...
 
 
-<video src="[https://github.com/user-attachments/assets/8c805c54-611a-4080-8b96-9ee310e4f8dc](https://github.com/marcosdevcodes/TEXTZOOM-CSS3/blob/main/img/video.MP4)" controls="controls" style="max-width: 100%;">
-</video>
+
+
+https://github.com/user-attachments/assets/1f0971a6-db1f-49d4-aa58-e4be50e55712
+
 
 
 # código HTML
