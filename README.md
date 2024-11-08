@@ -1,7 +1,11 @@
 # TextZoom com CSS3, veja o video abaixo...
 
 
-<video src="https://github.com/user-attachments/assets/7f8ccdc4-0827-4ea3-be23-1313833da7df" controls="controls" style="max-width: 100%;">
+<video src="
+
+https://github.com/user-attachments/assets/8c805c54-611a-4080-8b96-9ee310e4f8dc
+
+" controls="controls" style="max-width: 100%;">
 </video>
 
 
